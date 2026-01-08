@@ -27,7 +27,9 @@ A full-stack Employee Management System built using **Spring Boot**, **React**, 
 ## Project Structure
 employee-management-system
 ├── backend # Spring Boot application
+
 ├── frontend # React application
+
 └── .gitignore
 
 ## How to Run
